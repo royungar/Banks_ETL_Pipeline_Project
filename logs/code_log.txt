@@ -1,0 +1,8 @@
+2025-07-24 09:44:45 : Preliminaries complete. Initiating ETL process
+2025-07-24 09:44:47 : Data extraction complete. Initiating transformation
+2025-07-24 09:44:47 : Data transformation complete. Initiating load operations
+2025-07-24 09:44:47 : Data saved to CSV file
+2025-07-24 09:44:47 : SQL connection established
+2025-07-24 09:44:47 : Data loaded to database table
+2025-07-24 09:44:47 : Queries executed successfully
+2025-07-24 09:44:47 : SQL connection closed. ETL process completed.
