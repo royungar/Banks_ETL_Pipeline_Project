@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project showcases the development of an ETL (Extract, Transform, Load) pipeline using **Python** to process data on the world’s largest banks. 
-It was completed as the final project for **Course 3 – Python Project for Data Engineering** 
+This project showcases the development of an ETL (Extract, Transform, Load) pipeline using **Python** to process data on the world’s largest banks.
+It was completed as the final project for **Course 3 – Python Project for Data Engineering**
 in the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer).
 
 ---
@@ -128,5 +128,6 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 ## Links
 
-Python Project for Data Engineering - (https://www.coursera.org/learn/python-project-for-data-engineering)
-GitHub Repository - (https://github.com/royungar)
+- Course Page - [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)
+- [GitHub Profile](https://github.com/royungar)
+- [GitHub Repository](https://github.com/royungar/Banks_ETL_Pipeline_Project)
