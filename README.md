@@ -1,8 +1,8 @@
-# Banks ETL Pipeline Project – IBM Data Engineering Professional Certificate
+# ETL Banks Data Pipeline Project – IBM Data Engineering Professional Certificate
 
 ## Overview
 
-This project showcases the development of an ETL (Extract, Transform, Load) pipeline using **Python** to process data on the world’s largest banks.
+This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline using **Python** to process data on the world’s largest banks.
 It was completed as the final project for **Course 3 – Python Project for Data Engineering**
 in the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer).
 
@@ -70,7 +70,7 @@ Three SQL queries are executed using `pandas.read_sql()`:
 ## Repository Structure
 
 ```plaintext
-Banks_ETL_Pipeline_Project/
+ETL_Banks_Data_Pipeline_Project/
 ├── README.md                     # Project documentation (this file)
 ├── data/
 │   ├── exchange_rate.csv         # Input exchange rates
@@ -130,4 +130,4 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 - Course Page - [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering)
 - [GitHub Profile](https://github.com/royungar)
-- [GitHub Repository](https://github.com/royungar/Banks_ETL_Pipeline_Project)
+- [GitHub Repository](https://github.com/royungar/ETL_Banks_Data_Pipeline_Project)
